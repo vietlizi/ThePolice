@@ -1,0 +1,14 @@
+name: ThePolicePlugin
+main: com.example.banmuteplugin.ThePolicePlugin
+version: 1.0
+api-version: 1.16
+commands:
+  ban:
+    description: Bans a player
+    usage: /ban <player>
+  mute:
+    description: Mutes a player
+    usage: /mute <player>
+  kick:
+    description: Kicks a player
+    usage: /kick <player>
